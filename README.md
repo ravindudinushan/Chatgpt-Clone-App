@@ -21,11 +21,11 @@ Additional features:
 ## Screenshots
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./screenshots/1.png" width=30%>
-<img src="./screenshots/2.png" width=30%>
-<img src="./screenshots/3.png" width=30%>
-<img src="./screenshots/4.png" width=30%>
-<img src="./screenshots/5.png" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/1.png" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/2.png" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/3.png" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/4.png" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/5.png" width=30%>
 <img src="./screenshots/6.png" width=30%>
 <img src="./screenshots/7.png" width=30%>
 <img src="./screenshots/8.png" width=30%>
@@ -37,27 +37,3 @@ Additional features:
 <img src="./screenshots/14.png" width=30%>
 </div>
 
-## Demo
-
-<div style="display: flex; flex-direction: 'row';">
-<img src="./screenshots/intro.gif" width=30%>
-<img src="./screenshots/chat.gif" width=30%>
-<img src="./screenshots/context.gif" width=30%>
-<img src="./screenshots/sqlite.gif" width=30%>
-<img src="./screenshots/purchase.gif" width=30%>
-<img src="./screenshots/explore.gif" width=30%>
-
-<img src="./screenshots/dalle.gif" width=30%>
-<img src="./screenshots/imagecontext.gif" width=30%>
-<img src="./screenshots/imagezoom.gif" width=30%>
-
-
-</div>
-
-## 🚀 More
-
-**Take a shortcut from web developer to mobile development fluency with guided learning**
-
-Enjoyed this project? Learn to use React Native to build production-ready, native mobile apps for both iOS and Android based on your existing web development skills.
-
-<a href="https://galaxies.dev"><img src="banner.png" height="auto" width="100%"></a>
