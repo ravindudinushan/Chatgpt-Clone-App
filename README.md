@@ -29,7 +29,7 @@ Additional features:
 <img src="./chatgpt-clone-react-native/screenshots/6.png" width=30%>
 <img src="./chatgpt-clone-react-native/screenshots/7.png" width=30%>
 <img src="./chatgpt-clone-react-native/screenshots/8.png" width=30%>
-<img src="./screenshots/9.png" width=30%>
+<img src="./chatgpt-clone-react-native/screenshots/9.png" width=30%>
 <img src="./screenshots/10.png" width=30%>
 <img src="./screenshots/11.png" width=30%>
 <img src="./screenshots/12.png" width=30%>
